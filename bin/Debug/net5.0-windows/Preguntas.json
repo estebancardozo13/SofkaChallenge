@@ -1,0 +1,563 @@
+[
+  // Categoria 1
+  {
+    "Ronda": 1,
+    "Puntos": 100,
+    "Preguntas": [
+      {
+        "TextoPregunta": "¿Cuándo llegó Cristóbal Colón a América?",
+        "Opciones": [
+          {
+            "TextoOpcion": "1492",
+            "EsCorrecta": true
+          },
+          {
+            "TextoOpcion": "1810",
+            "EsCorrecta": false
+          },
+          {
+            "TextoOpcion": "1503",
+            "EsCorrecta": false
+          },
+          {
+            "TextoOpcion": "1602",
+            "EsCorrecta": false
+          }
+        ]
+      },
+      {
+        "TextoPregunta": "¿Cuál es el río más largo del mundo?",
+        "Opciones": [
+          {
+            "TextoOpcion": "Amazonas",
+            "EsCorrecta": true
+          },
+          {
+            "TextoOpcion": "Nilo",
+            "EsCorrecta": false
+          },
+          {
+            "TextoOpcion": "Misisipi",
+            "EsCorrecta": false
+          },
+          {
+            "TextoOpcion": "Yenisei",
+            "EsCorrecta": false
+          }
+        ]
+      },
+      {
+        "TextoPregunta": "¿Cuál es el país con más habitantes del mundo?",
+        "Opciones": [
+          {
+            "TextoOpcion": "China",
+            "EsCorrecta": true
+          },
+          {
+            "TextoOpcion": "Rusia",
+            "EsCorrecta": false
+          },
+          {
+            "TextoOpcion": "India",
+            "EsCorrecta": false
+          },
+          {
+            "TextoOpcion": "Estados Unidos",
+            "EsCorrecta": false
+          }
+        ]
+      },
+      {
+        "TextoPregunta": "¿Cuál es el país mas grande del mundo?",
+        "Opciones": [
+          {
+            "TextoOpcion": "Rusia",
+            "EsCorrecta": true
+          },
+          {
+            "TextoOpcion": "Brasil",
+            "EsCorrecta": false
+          },
+          {
+            "TextoOpcion": "China",
+            "EsCorrecta": false
+          },
+          {
+            "TextoOpcion": "India",
+            "EsCorrecta": false
+          }
+        ]
+      },
+      {
+        "TextoPregunta": "¿Qué día es la fiesta nacional de los Estados Unidos?",
+        "Opciones": [
+          {
+            "TextoOpcion": "4 de Julio",
+            "EsCorrecta": true
+          },
+          {
+            "TextoOpcion": "6 de Julio",
+            "EsCorrecta": false
+          },
+          {
+            "TextoOpcion": "4 de Junio",
+            "EsCorrecta": false
+          },
+          {
+            "TextoOpcion": "6 de Junio",
+            "EsCorrecta": false
+          }
+        ]
+      }
+    ]
+  },
+  // Categoria 2
+  {
+    "Ronda": 2,
+    "Puntos": 200,
+    "Preguntas": [
+      {
+        "TextoPregunta": "¿En qué año cayó el muro de Berlín?",
+        "Opciones": [
+          {
+            "TextoOpcion": "1989",
+            "EsCorrecta": true
+          },
+          {
+            "TextoOpcion": "1991",
+            "EsCorrecta": false
+          },
+          {
+            "TextoOpcion": "1939",
+            "EsCorrecta": false
+          },
+          {
+            "TextoOpcion": "1945",
+            "EsCorrecta": false
+          }
+        ]
+      },
+      {
+        "TextoPregunta": "¿Cuál es el océano más grande del mundo?",
+        "Opciones": [
+          {
+            "TextoOpcion": "Pacifico",
+            "EsCorrecta": true
+          },
+          {
+            "TextoOpcion": "Atlantico",
+            "EsCorrecta": false
+          },
+          {
+            "TextoOpcion": "Indico",
+            "EsCorrecta": false
+          },
+          {
+            "TextoOpcion": "Artico",
+            "EsCorrecta": false
+          }
+        ]
+      },
+      {
+        "TextoPregunta": "¿Cuál es el planeta más grande del Sistema Solar?",
+        "Opciones": [
+          {
+            "TextoOpcion": "Jupiter",
+            "EsCorrecta": true
+          },
+          {
+            "TextoOpcion": "Marte",
+            "EsCorrecta": false
+          },
+          {
+            "TextoOpcion": "Saturno",
+            "EsCorrecta": false
+          },
+          {
+            "TextoOpcion": "Mercurio",
+            "EsCorrecta": false
+          }
+        ]
+      },
+      {
+        "TextoPregunta": "¿Cuál es la luna más grande de Saturno?",
+        "Opciones": [
+          {
+            "TextoOpcion": "Titan",
+            "EsCorrecta": true
+          },
+          {
+            "TextoOpcion": "Encelado",
+            "EsCorrecta": false
+          },
+          {
+            "TextoOpcion": "Dione",
+            "EsCorrecta": false
+          },
+          {
+            "TextoOpcion": "Tetis",
+            "EsCorrecta": false
+          }
+        ]
+      },
+      {
+        "TextoPregunta": "¿Cuáles son los únicos mamíferos que pueden volar?",
+        "Opciones": [
+          {
+            "TextoOpcion": "Murcielagos",
+            "EsCorrecta": true
+          },
+          {
+            "TextoOpcion": "Ornitorrincos",
+            "EsCorrecta": false
+          },
+          {
+            "TextoOpcion": "Aguilas",
+            "EsCorrecta": false
+          },
+          {
+            "TextoOpcion": "Avestruces",
+            "EsCorrecta": false
+          }
+        ]
+      }
+    ]
+  },
+  // Categoria 3
+  {
+    "Ronda": 3,
+    "Puntos": 300,
+    "Preguntas": [
+      {
+        "TextoPregunta": "¿Cuándo se inventó la imprenta?",
+        "Opciones": [
+          {
+            "TextoOpcion": "1440",
+            "EsCorrecta": true
+          },
+          {
+            "TextoOpcion": "1420",
+            "EsCorrecta": false
+          },
+          {
+            "TextoOpcion": "1735",
+            "EsCorrecta": false
+          },
+          {
+            "TextoOpcion": "1780",
+            "EsCorrecta": false
+          }
+        ]
+      },
+      {
+        "TextoPregunta": "¿Cuál es el mineral más duro del planeta?",
+        "Opciones": [
+          {
+            "TextoOpcion": "Diamante",
+            "EsCorrecta": true
+          },
+          {
+            "TextoOpcion": "Cuarzo",
+            "EsCorrecta": false
+          },
+          {
+            "TextoOpcion": "Oro",
+            "EsCorrecta": false
+          },
+          {
+            "TextoOpcion": "Esmeralda",
+            "EsCorrecta": false
+          }
+        ]
+      },
+      {
+        "TextoPregunta": "¿Cuál fue la primera película de Disney?",
+        "Opciones": [
+          {
+            "TextoOpcion": "Blancanieves",
+            "EsCorrecta": true
+          },
+          {
+            "TextoOpcion": "Caperucita Roja",
+            "EsCorrecta": false
+          },
+          {
+            "TextoOpcion": "101 Dalmatas",
+            "EsCorrecta": false
+          },
+          {
+            "TextoOpcion": "Cenicienta",
+            "EsCorrecta": false
+          }
+        ]
+      },
+      {
+        "TextoPregunta": "¿Cuál es el planeta más alejado del Sol?",
+        "Opciones": [
+          {
+            "TextoOpcion": "Neptuno",
+            "EsCorrecta": true
+          },
+          {
+            "TextoOpcion": "Venus",
+            "EsCorrecta": false
+          },
+          {
+            "TextoOpcion": "Saturno",
+            "EsCorrecta": false
+          },
+          {
+            "TextoOpcion": "Jupiter",
+            "EsCorrecta": false
+          }
+        ]
+      },
+      {
+        "TextoPregunta": "¿En qué país nació Adolf Hitler?",
+        "Opciones": [
+          {
+            "TextoOpcion": "Austria",
+            "EsCorrecta": true
+          },
+          {
+            "TextoOpcion": "Alemania",
+            "EsCorrecta": false
+          },
+          {
+            "TextoOpcion": "Polonia",
+            "EsCorrecta": false
+          },
+          {
+            "TextoOpcion": "Francia",
+            "EsCorrecta": false
+          }
+        ]
+      }
+    ]
+  },
+  // Categoria 4
+  {
+    "Ronda": 4,
+    "Puntos": 400,
+    "Preguntas": [
+      {
+        "TextoPregunta": "¿Cuál es el lago más profundo del mundo?",
+        "Opciones": [
+          {
+            "TextoOpcion": "El lago Baikal",
+            "EsCorrecta": true
+          },
+          {
+            "TextoOpcion": "El lago Titicaca",
+            "EsCorrecta": false
+          },
+          {
+            "TextoOpcion": "El lago Victoria",
+            "EsCorrecta": false
+          },
+          {
+            "TextoOpcion": "El lago Tanganica",
+            "EsCorrecta": false
+          }
+        ]
+      },
+      {
+        "TextoPregunta": "¿Qué equipo de futbol juega de local en el estadio conocido como el Parque de los Príncipes?",
+        "Opciones": [
+          {
+            "TextoOpcion": "PSG",
+            "EsCorrecta": true
+          },
+          {
+            "TextoOpcion": "Manchester United",
+            "EsCorrecta": false
+          },
+          {
+            "TextoOpcion": "Liverpool",
+            "EsCorrecta": false
+          },
+          {
+            "TextoOpcion": "Real Madrid",
+            "EsCorrecta": false
+          }
+        ]
+      },
+      {
+        "TextoPregunta": "¿Cuál es la galaxia más cercana a la nuestra?",
+        "Opciones": [
+          {
+            "TextoOpcion": "Andromeda",
+            "EsCorrecta": true
+          },
+          {
+            "TextoOpcion": "La via lactea",
+            "EsCorrecta": false
+          },
+          {
+            "TextoOpcion": "Enana del Can Mayor",
+            "EsCorrecta": false
+          },
+          {
+            "TextoOpcion": "SagDeg",
+            "EsCorrecta": false
+          }
+        ]
+      },
+      {
+        "TextoPregunta": "¿Quién era el dios vikingo de la luz y de la verdad?",
+        "Opciones": [
+          {
+            "TextoOpcion": "Balder",
+            "EsCorrecta": true
+          },
+          {
+            "TextoOpcion": "Thor",
+            "EsCorrecta": false
+          },
+          {
+            "TextoOpcion": "Forseti",
+            "EsCorrecta": false
+          },
+          {
+            "TextoOpcion": "Andhrimnir",
+            "EsCorrecta": false
+          }
+        ]
+      },
+      {
+        "TextoPregunta": "¿De qué grupo formaba parte Paul McCartney?",
+        "Opciones": [
+          {
+            "TextoOpcion": "The Beatles",
+            "EsCorrecta": true
+          },
+          {
+            "TextoOpcion": "Pink Floyd",
+            "EsCorrecta": false
+          },
+          {
+            "TextoOpcion": "One Direction",
+            "EsCorrecta": false
+          },
+          {
+            "TextoOpcion": "U2",
+            "EsCorrecta": false
+          }
+        ]
+      }
+    ]
+  },
+  // Categoria 5
+  {
+    "Ronda": 5,
+    "Puntos": 500,
+    "Preguntas": [
+      {
+        "TextoPregunta": "¿Cuántos años son un lustro?",
+        "Opciones": [
+          {
+            "TextoOpcion": "Cinco",
+            "EsCorrecta": true
+          },
+          {
+            "TextoOpcion": "Cincuenta",
+            "EsCorrecta": false
+          },
+          {
+            "TextoOpcion": "Veinticinco",
+            "EsCorrecta": false
+          },
+          {
+            "TextoOpcion": "Quinientos",
+            "EsCorrecta": false
+          }
+        ]
+      },
+      {
+        "TextoPregunta": "¿En que año tuvo lugar la Revolución Francesa?",
+        "Opciones": [
+          {
+            "TextoOpcion": "1789",
+            "EsCorrecta": true
+          },
+          {
+            "TextoOpcion": "1889",
+            "EsCorrecta": false
+          },
+          {
+            "TextoOpcion": "1989",
+            "EsCorrecta": false
+          },
+          {
+            "TextoOpcion": "1689",
+            "EsCorrecta": false
+          }
+        ]
+      },
+      {
+        "TextoPregunta": "¿Cuál era el nombre de pila de Che Guevara?",
+        "Opciones": [
+          {
+            "TextoOpcion": "Ernesto",
+            "EsCorrecta": true
+          },
+          {
+            "TextoOpcion": "Sergio",
+            "EsCorrecta": false
+          },
+          {
+            "TextoOpcion": "Gonzalo",
+            "EsCorrecta": false
+          },
+          {
+            "TextoOpcion": "Franco",
+            "EsCorrecta": false
+          }
+        ]
+      },
+      {
+        "TextoPregunta": "¿Dónde nació Mozart?",
+        "Opciones": [
+          {
+            "TextoOpcion": "Austria",
+            "EsCorrecta": true
+          },
+          {
+            "TextoOpcion": "Paises Bajos",
+            "EsCorrecta": false
+          },
+          {
+            "TextoOpcion": "Alemania",
+            "EsCorrecta": false
+          },
+          {
+            "TextoOpcion": "Turquia",
+            "EsCorrecta": false
+          }
+        ]
+      },
+      {
+        "TextoPregunta": "¿Cuál era la ciudad más cercana a la central nuclear de Chernóbil?",
+        "Opciones": [
+          {
+            "TextoOpcion": "Pripiat",
+            "EsCorrecta": true
+          },
+          {
+            "TextoOpcion": "Kiev",
+            "EsCorrecta": false
+          },
+          {
+            "TextoOpcion": "San Petesburgo",
+            "EsCorrecta": false
+          },
+          {
+            "TextoOpcion": "Donetsk",
+            "EsCorrecta": false
+          }
+        ]
+      }
+    ]
+  }
+
+]
